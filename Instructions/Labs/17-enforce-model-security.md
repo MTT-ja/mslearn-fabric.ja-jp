@@ -429,7 +429,7 @@ lab:
 
     テストのため、 **[その他のユーザー]** を USERPRINCIPALNAME 関数によって返される値にします。この営業担当者は **Northeast** 地域に割り当てられていることに注意してください。**
 
-3. **[営業担当者]** ロールを確認します。
+3. **[Salesperson]** ロールを確認します。
 
     ![](Images/enforce-model-security-image70.png)
 
